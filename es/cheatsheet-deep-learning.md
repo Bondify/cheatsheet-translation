@@ -6,25 +6,25 @@
 
 **2. Neural Networks**
 
-&#10230;
+&#10230; **2. Redes Neuronales**
 
 <br>
 
 **3. Neural networks are a class of models that are built with layers. Commonly used types of neural networks include convolutional and recurrent neural networks.**
 
-&#10230;
+&#10230; **4. Las Redes Neuronales son un tipo de modelo construido con capas. Los tipos de redes neuronales más comunes incluyen redes neuronales recurrentes y convolucionales.
 
-<br>
+<br> 
 
 **4. Architecture ― The vocabulary around neural networks architectures is described in the figure below:**
 
-&#10230;
+&#10230; **4. Arquitectura - El vocabulario referente a las arquitecturas de redes neuronales se describe en la figura de abajo:**
 
 <br>
 
 **5. [Input layer, hidden layer, output layer]**
 
-&#10230;
+&#10230; **5. [Capa de entrada, capa oculta, capa de salida}**
 
 <br>
 
@@ -32,17 +32,17 @@
 
 &#10230;
 
-<br>
+<br> **6. Denotando i la i-ésima capa de la red y j a la j-ésima unidad oculta de la capa, tenemos:**
 
 **7. where we note w, b, z the weight, bias and output respectively.**
 
-&#10230;
+&#10230; **7. donde denotamos w, b, z al peso, bias y salida respectivamente.**
 
 <br>
 
 **8. Activation function ― Activation functions are used at the end of a hidden unit to introduce non-linear complexities to the model. Here are the most common ones:**
 
-&#10230;
+&#10230; **8. Función de activación - Las Funciones de Activacion son utilizadas al final de una unidad oculta con el fin de introducir complejidades no lineales al modelo. Aquí se muestran las más comunes:**
 
 <br>
 
@@ -54,7 +54,7 @@
 
 **10. Cross-entropy loss ― In the context of neural networks, the cross-entropy loss L(z,y) is commonly used and is defined as follows:**
 
-&#10230;
+&#10230; **10. Pérdida de entropía cruzada - En el contexto de las redes neuronales, la pérdida de entropía cruzada L(z,y) es comunmente utilizada y definida de la siguiente manera:**
 
 <br>
 
